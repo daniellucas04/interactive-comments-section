@@ -1,0 +1,19 @@
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+
+  /* Primary colors */
+  --p-dark-blue: hsl(212, 24%, 26%);
+  --p-soft-red: hsl(358, 79%, 66%);
+  --p-light-grayish-blue:  hsl(239, 57%, 85%);
+  --p-pale-red: hsl(357, 100%, 86%);
+
+  /* Neutral colors */
+  --n-dark-blue: hsl(212, 24%, 26%);
+  --n-grayish-blue: hsl(211, 10%, 45%);
+  --n-light-gray: hsl(223, 19%, 93%);
+  --n-very-light-gray: hsl(228, 33%, 97%);
+  --n-white: hsl(0, 0%, 100%);
+}
